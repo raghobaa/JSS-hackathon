@@ -144,7 +144,7 @@
         }
     </style>
 </head>
-<script src="//code.tidio.co/qhvkr9itioezyrhjf4lsrodj0jusjxom.js" async></script>
+
 <body data-theme="light"> <!-- Add data-theme attribute -->
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
